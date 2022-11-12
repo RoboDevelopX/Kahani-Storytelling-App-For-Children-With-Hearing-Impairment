@@ -31,11 +31,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [Git](http://github.com/) for versioning. 
 
-## Authors
-
-* [**Ajay Gujja**](https://github.com/ajaygujja)
-
-See also the list of [contributors](https://github.com/ajaygujja/ThirdVer/graphs/contributors) who participated in this project.
 
 ## License
 
